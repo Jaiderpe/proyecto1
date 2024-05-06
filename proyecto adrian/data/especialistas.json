@@ -1,0 +1,28 @@
+{
+    "dataEspecialistas": {
+        "1": {
+            "identificacion": "1",
+            "codespecia": "1",
+            "nombreesp": "1",
+            "correoim": "1",
+            "numconsul": "1",
+            "horacon": "1",
+            "fronada": {
+                "m\u00f1": {},
+                "td": {}
+            }
+        },
+        "2": {
+            "identificacion": "2",
+            "codespecia": "2",
+            "nombreesp": "2",
+            "correoim": "2",
+            "numconsul": "2",
+            "horacon": "2",
+            "fronada": {
+                "m\u00f1": {},
+                "td": {}
+            }
+        }
+    }
+}
